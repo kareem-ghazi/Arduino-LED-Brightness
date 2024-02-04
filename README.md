@@ -20,14 +20,16 @@ To run this project, you will need the following:
 To install this project, follow these steps:
 
 1. Clone the repository to your local machine using Git or download it as a ZIP file.
-2. Connect the LED and resistor to the Arduino board according to the wiring diagram provided in the schematic.png file.
-3. Open arduino_led_fading.ino file in the Arduino IDE.
+2. Connect the LED and resistor to the Arduino board according to the wiring diagram provided in the schematic.png file. ![](schematic.png)
+3. Open arduino-led-brightness.ino file in the Arduino IDE.
 4. Compile the code and upload it to the Arduino board.
 # Usage
 To use this project:
 
 1. Connect the Arduino board to a power source.
 2. The LED will gradually increase in brightness from zero to maximum brightness, then decrease back to zero, in a loop.
+# Tinkercad
+- You can view a live simulaton of the project through the following link on [Tinkercad](https://www.tinkercad.com/things/70ZORgZTolk-arduino-led-brightness)
 # Contributing
 If you'd like to contribute to this project, please follow these steps:
 
