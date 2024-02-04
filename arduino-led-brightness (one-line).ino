@@ -1,4 +1,3 @@
-const double PI = 3.14159265;
 int i = 0;
 
 void setup()
